@@ -1,0 +1,59 @@
+body {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    height: 60px;
+}
+p {
+    /* font-size: 20px; */
+    text-align: center;
+}
+#text {
+    width: 60%;
+    margin: 0 auto;
+}
+i {
+    font-size: 250;
+}
+#links {
+    width: 60%;
+    margin: 0 auto;
+}
+/*#links i {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+#links a {
+    text-decoration: none;
+    margin: 0 auto;
+}
+#twitter {
+    font-size: 100px;
+    color: rgb(28, 160, 241);
+}
+#twitch {
+    font-size: 100px;
+    color: rgb(100, 64, 165);
+}
+#discord {
+    font-size: 100px;
+    color: rgb(86, 98, 246);
+}
+#youtube {
+    font-size: 100px;
+    color:rgb(220, 40, 37);
+}
+a {
+    text-decoration: none;
+}
+.links {
+    width: 10%;
+    margin-top: 50px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    float: left;
+}
